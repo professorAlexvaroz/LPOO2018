@@ -1,0 +1,15 @@
+10/08 - Apresentação do Curso / Lógica, Algoritmos 
+17/08 - Pseudocódigo(entrada e saída de dados)
+24/08 - Entrega Lista1
+31/08 - 
+14/09 - Entrega Lista2
+21/09 - Prova1 (Lista3)
+28/09 - 
+05/10 - Arrays
+19/10 - Métodos
+26/10 - Entrega Lista4 - Programação
+09/11 - Orientação
+16/11 - Entrega Lista5
+23/11 - Prova2 (Lista6)
+07/12 - Prova3
+
